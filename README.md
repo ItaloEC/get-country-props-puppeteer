@@ -46,7 +46,7 @@
 
 Este projeto foi feito baseado na necessidade de exibir uma lista de países, cada um com sua respectiva bandeira. Neste repositório está o código que automatiza essa tarefa, gerando um arquivo JSON com o nome completo, a abreviação, e um link do site <a href='https://www.countryflags.io/' >Country Flags</a> com a bandeira de cada país.
 
-### Construído com
+### Ferramentas Utilizadas
 
 O projeto foi feito utilizando node.js, o mais famoso interpretador de javascript fora de navegadores, o gerenciador de pacotes yarn (mas também poderia ter sido utilizado o NPM), e o puppeteer.js, uma biblioteca muito completa de web scrapping (captura de dados automatizada de páginas web). Para a edição de código, foi utilizado o editor Visual Studio Code.
 
@@ -58,7 +58,7 @@ O projeto foi feito utilizando node.js, o mais famoso interpretador de javascrip
 
 ### Prerequisitos
 
-É necessário instalar o node.js, e um dos gerenciadores de pacotes citados acima. Os links para o download das ferramentas utilizadas estão na seção "Construído com"
+É necessário instalar o node.js, e um dos gerenciadores de pacotes citados acima. Os links para o download das ferramentas utilizadas estão na seção "Ferramentas Utilizadas"
 
 ### Instalação
 
@@ -113,9 +113,9 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para m
 
 <!-- CONTACT -->
 
-## Contact
+## Contato
 
-Ítalo Alves - [@your_twitter](https://twitter.com/your_username) - italo_alves@hotmail.com
+Ítalo Alves - [Perfil no LinkedIn][linkedin-url] - E-mail: italo_alves@hotmail.com
 
 Link do projeto: [https://github.com/ItaloEC/get-country-props-puppeteer](https://github.com/your_username/repo_name)
 
