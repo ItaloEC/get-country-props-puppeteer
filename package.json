@@ -1,0 +1,17 @@
+{
+  "name": "get-country-props-puppeteer",
+  "author": {
+    "name": "Ítalo Alves",
+    "email": "italo_alves2222@hotmail.com",
+    "url": "https://www.linkedin.com/in/italo-alves-8037129a/"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}

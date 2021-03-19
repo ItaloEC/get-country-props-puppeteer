@@ -1,0 +1,1276 @@
+[
+  {
+    "code": "AD",
+    "text": "Andorra",
+    "flag": "https://www.countryflags.io/AD/flat/64.png"
+  },
+  {
+    "code": "AE",
+    "text": "United Arab Emirates",
+    "flag": "https://www.countryflags.io/AE/flat/64.png"
+  },
+  {
+    "code": "AF",
+    "text": "Afghanistan",
+    "flag": "https://www.countryflags.io/AF/flat/64.png"
+  },
+  {
+    "code": "AG",
+    "text": "Antigua and Barbuda",
+    "flag": "https://www.countryflags.io/AG/flat/64.png"
+  },
+  {
+    "code": "AI",
+    "text": "Anguilla",
+    "flag": "https://www.countryflags.io/AI/flat/64.png"
+  },
+  {
+    "code": "AH",
+    "flag": "https://www.countryflags.io/AH/flat/64.png"
+  },
+  {
+    "code": "AK",
+    "flag": "https://www.countryflags.io/AK/flat/64.png"
+  },
+  {
+    "code": "AL",
+    "text": "Albania",
+    "flag": "https://www.countryflags.io/AL/flat/64.png"
+  },
+  {
+    "code": "AM",
+    "text": "Armenia",
+    "flag": "https://www.countryflags.io/AM/flat/64.png"
+  },
+  {
+    "code": "AN",
+    "text": "Netherlands Antilles",
+    "flag": "https://www.countryflags.io/AN/flat/64.png"
+  },
+  {
+    "code": "AO",
+    "text": "Angola",
+    "flag": "https://www.countryflags.io/AO/flat/64.png"
+  },
+  {
+    "code": "AQ",
+    "text": "Antarctica",
+    "flag": "https://www.countryflags.io/AQ/flat/64.png"
+  },
+  {
+    "code": "AR",
+    "text": "Argentina",
+    "flag": "https://www.countryflags.io/AR/flat/64.png"
+  },
+  {
+    "code": "AS",
+    "text": "American Samoa",
+    "flag": "https://www.countryflags.io/AS/flat/64.png"
+  },
+  {
+    "code": "AT",
+    "text": "Austria",
+    "flag": "https://www.countryflags.io/AT/flat/64.png"
+  },
+  {
+    "code": "AU",
+    "text": "Australia",
+    "flag": "https://www.countryflags.io/AU/flat/64.png"
+  },
+  {
+    "code": "AW",
+    "text": "Aruba",
+    "flag": "https://www.countryflags.io/AW/flat/64.png"
+  },
+  {
+    "code": "AX",
+    "text": "Åland Islands",
+    "flag": "https://www.countryflags.io/AX/flat/64.png"
+  },
+  {
+    "code": "AZ",
+    "text": "Azerbaijan",
+    "flag": "https://www.countryflags.io/AZ/flat/64.png"
+  },
+  {
+    "code": "BA",
+    "text": "Bosnia and Herzegovina",
+    "flag": "https://www.countryflags.io/BA/flat/64.png"
+  },
+  {
+    "code": "BB",
+    "text": "Barbados",
+    "flag": "https://www.countryflags.io/BB/flat/64.png"
+  },
+  {
+    "code": "BD",
+    "text": "Bangladesh",
+    "flag": "https://www.countryflags.io/BD/flat/64.png"
+  },
+  {
+    "code": "BE",
+    "text": "Belgium",
+    "flag": "https://www.countryflags.io/BE/flat/64.png"
+  },
+  {
+    "code": "BF",
+    "text": "Burkina Faso",
+    "flag": "https://www.countryflags.io/BF/flat/64.png"
+  },
+  {
+    "code": "BG",
+    "text": "Bulgaria",
+    "flag": "https://www.countryflags.io/BG/flat/64.png"
+  },
+  {
+    "code": "BH",
+    "text": "Bahrain",
+    "flag": "https://www.countryflags.io/BH/flat/64.png"
+  },
+  {
+    "code": "BI",
+    "text": "Burundi",
+    "flag": "https://www.countryflags.io/BI/flat/64.png"
+  },
+  {
+    "code": "BJ",
+    "text": "Benin",
+    "flag": "https://www.countryflags.io/BJ/flat/64.png"
+  },
+  {
+    "code": "BL",
+    "text": "Saint Barthélemy",
+    "flag": "https://www.countryflags.io/BL/flat/64.png"
+  },
+  {
+    "code": "BM",
+    "text": "Bermuda",
+    "flag": "https://www.countryflags.io/BM/flat/64.png"
+  },
+  {
+    "code": "BN",
+    "text": "Brunei Darussalam",
+    "flag": "https://www.countryflags.io/BN/flat/64.png"
+  },
+  {
+    "code": "BO",
+    "text": "Bolivia",
+    "flag": "https://www.countryflags.io/BO/flat/64.png"
+  },
+  {
+    "code": "BQ",
+    "text": "Bonaire, Sint Eustatius and Saba",
+    "flag": "https://www.countryflags.io/BQ/flat/64.png"
+  },
+  {
+    "code": "BR",
+    "text": "Brazil",
+    "flag": "https://www.countryflags.io/BR/flat/64.png"
+  },
+  {
+    "code": "BS",
+    "text": "Bahamas",
+    "flag": "https://www.countryflags.io/BS/flat/64.png"
+  },
+  {
+    "code": "BT",
+    "text": "Bhutan",
+    "flag": "https://www.countryflags.io/BT/flat/64.png"
+  },
+  {
+    "code": "BV",
+    "text": "Bouvet Island",
+    "flag": "https://www.countryflags.io/BV/flat/64.png"
+  },
+  {
+    "code": "BW",
+    "text": "Botswana",
+    "flag": "https://www.countryflags.io/BW/flat/64.png"
+  },
+  {
+    "code": "BY",
+    "text": "Belarus",
+    "flag": "https://www.countryflags.io/BY/flat/64.png"
+  },
+  {
+    "code": "BZ",
+    "text": "Belize",
+    "flag": "https://www.countryflags.io/BZ/flat/64.png"
+  },
+  {
+    "code": "CA",
+    "text": "Canada",
+    "flag": "https://www.countryflags.io/CA/flat/64.png"
+  },
+  {
+    "code": "CC",
+    "text": "Cocos (Keeling) Islands",
+    "flag": "https://www.countryflags.io/CC/flat/64.png"
+  },
+  {
+    "code": "CD",
+    "text": "Congo, The Democratic Republic Of The",
+    "flag": "https://www.countryflags.io/CD/flat/64.png"
+  },
+  {
+    "code": "CF",
+    "text": "Central African Republic",
+    "flag": "https://www.countryflags.io/CF/flat/64.png"
+  },
+  {
+    "code": "CG",
+    "text": "Congo",
+    "flag": "https://www.countryflags.io/CG/flat/64.png"
+  },
+  {
+    "code": "CH",
+    "text": "Switzerland",
+    "flag": "https://www.countryflags.io/CH/flat/64.png"
+  },
+  {
+    "code": "CI",
+    "text": "Côte D'Ivoire",
+    "flag": "https://www.countryflags.io/CI/flat/64.png"
+  },
+  {
+    "code": "CK",
+    "text": "Cook Islands",
+    "flag": "https://www.countryflags.io/CK/flat/64.png"
+  },
+  {
+    "code": "CL",
+    "text": "Chile",
+    "flag": "https://www.countryflags.io/CL/flat/64.png"
+  },
+  {
+    "code": "CM",
+    "text": "Cameroon",
+    "flag": "https://www.countryflags.io/CM/flat/64.png"
+  },
+  {
+    "code": "CN",
+    "text": "China",
+    "flag": "https://www.countryflags.io/CN/flat/64.png"
+  },
+  {
+    "code": "CO",
+    "text": "Colombia",
+    "flag": "https://www.countryflags.io/CO/flat/64.png"
+  },
+  {
+    "code": "CR",
+    "text": "Costa Rica",
+    "flag": "https://www.countryflags.io/CR/flat/64.png"
+  },
+  {
+    "code": "CU",
+    "text": "Cuba",
+    "flag": "https://www.countryflags.io/CU/flat/64.png"
+  },
+  {
+    "code": "CV",
+    "text": "Cape Verde",
+    "flag": "https://www.countryflags.io/CV/flat/64.png"
+  },
+  {
+    "code": "CW",
+    "text": "Curaçao",
+    "flag": "https://www.countryflags.io/CW/flat/64.png"
+  },
+  {
+    "code": "CX",
+    "text": "Christmas Island",
+    "flag": "https://www.countryflags.io/CX/flat/64.png"
+  },
+  {
+    "code": "CY",
+    "text": "Cyprus",
+    "flag": "https://www.countryflags.io/CY/flat/64.png"
+  },
+  {
+    "code": "CZ",
+    "text": "Czech Republic",
+    "flag": "https://www.countryflags.io/CZ/flat/64.png"
+  },
+  {
+    "code": "DE",
+    "text": "Germany",
+    "flag": "https://www.countryflags.io/DE/flat/64.png"
+  },
+  {
+    "code": "DJ",
+    "text": "Djibouti",
+    "flag": "https://www.countryflags.io/DJ/flat/64.png"
+  },
+  {
+    "code": "DK",
+    "text": "Denmark",
+    "flag": "https://www.countryflags.io/DK/flat/64.png"
+  },
+  {
+    "code": "DM",
+    "text": "Dominica",
+    "flag": "https://www.countryflags.io/DM/flat/64.png"
+  },
+  {
+    "code": "DO",
+    "text": "Dominican Republic",
+    "flag": "https://www.countryflags.io/DO/flat/64.png"
+  },
+  {
+    "code": "DZ",
+    "text": "Algeria",
+    "flag": "https://www.countryflags.io/DZ/flat/64.png"
+  },
+  {
+    "code": "EC",
+    "text": "Ecuador",
+    "flag": "https://www.countryflags.io/EC/flat/64.png"
+  },
+  {
+    "code": "EE",
+    "text": "Estonia",
+    "flag": "https://www.countryflags.io/EE/flat/64.png"
+  },
+  {
+    "code": "EG",
+    "text": "Egypt",
+    "flag": "https://www.countryflags.io/EG/flat/64.png"
+  },
+  {
+    "code": "EH",
+    "text": "Western Sahara",
+    "flag": "https://www.countryflags.io/EH/flat/64.png"
+  },
+  {
+    "code": "ER",
+    "text": "Eritrea",
+    "flag": "https://www.countryflags.io/ER/flat/64.png"
+  },
+  {
+    "code": "ES",
+    "text": "Spain",
+    "flag": "https://www.countryflags.io/ES/flat/64.png"
+  },
+  {
+    "code": "ET",
+    "text": "Ethiopia",
+    "flag": "https://www.countryflags.io/ET/flat/64.png"
+  },
+  {
+    "code": "EU",
+    "flag": "https://www.countryflags.io/EU/flat/64.png"
+  },
+  {
+    "code": "FI",
+    "text": "Finland",
+    "flag": "https://www.countryflags.io/FI/flat/64.png"
+  },
+  {
+    "code": "FJ",
+    "text": "Fiji",
+    "flag": "https://www.countryflags.io/FJ/flat/64.png"
+  },
+  {
+    "code": "FK",
+    "text": "Falkland Islands (Malvinas)",
+    "flag": "https://www.countryflags.io/FK/flat/64.png"
+  },
+  {
+    "code": "FM",
+    "text": "Micronesia, Federated States Of",
+    "flag": "https://www.countryflags.io/FM/flat/64.png"
+  },
+  {
+    "code": "FO",
+    "text": "Faroe Islands",
+    "flag": "https://www.countryflags.io/FO/flat/64.png"
+  },
+  {
+    "code": "FR",
+    "text": "France",
+    "flag": "https://www.countryflags.io/FR/flat/64.png"
+  },
+  {
+    "code": "GA",
+    "text": "Gabon",
+    "flag": "https://www.countryflags.io/GA/flat/64.png"
+  },
+  {
+    "code": "GB",
+    "text": "United Kingdom",
+    "flag": "https://www.countryflags.io/GB/flat/64.png"
+  },
+  {
+    "code": "GD",
+    "text": "Grenada",
+    "flag": "https://www.countryflags.io/GD/flat/64.png"
+  },
+  {
+    "code": "GE",
+    "text": "Georgia",
+    "flag": "https://www.countryflags.io/GE/flat/64.png"
+  },
+  {
+    "code": "GF",
+    "text": "French Guiana",
+    "flag": "https://www.countryflags.io/GF/flat/64.png"
+  },
+  {
+    "code": "GG",
+    "text": "Guernsey",
+    "flag": "https://www.countryflags.io/GG/flat/64.png"
+  },
+  {
+    "code": "GH",
+    "text": "Ghana",
+    "flag": "https://www.countryflags.io/GH/flat/64.png"
+  },
+  {
+    "code": "GI",
+    "text": "Gibraltar",
+    "flag": "https://www.countryflags.io/GI/flat/64.png"
+  },
+  {
+    "code": "GL",
+    "text": "Greenland",
+    "flag": "https://www.countryflags.io/GL/flat/64.png"
+  },
+  {
+    "code": "GM",
+    "text": "Gambia",
+    "flag": "https://www.countryflags.io/GM/flat/64.png"
+  },
+  {
+    "code": "GN",
+    "text": "Guinea",
+    "flag": "https://www.countryflags.io/GN/flat/64.png"
+  },
+  {
+    "code": "GP",
+    "text": "Guadeloupe",
+    "flag": "https://www.countryflags.io/GP/flat/64.png"
+  },
+  {
+    "code": "GQ",
+    "text": "Equatorial Guinea",
+    "flag": "https://www.countryflags.io/GQ/flat/64.png"
+  },
+  {
+    "code": "GR",
+    "text": "Greece",
+    "flag": "https://www.countryflags.io/GR/flat/64.png"
+  },
+  {
+    "code": "GS",
+    "text": "South Georgia and the South Sandwich Islands",
+    "flag": "https://www.countryflags.io/GS/flat/64.png"
+  },
+  {
+    "code": "GT",
+    "text": "Guatemala",
+    "flag": "https://www.countryflags.io/GT/flat/64.png"
+  },
+  {
+    "code": "GU",
+    "text": "Guam",
+    "flag": "https://www.countryflags.io/GU/flat/64.png"
+  },
+  {
+    "code": "GW",
+    "text": "Guinea-Bissau",
+    "flag": "https://www.countryflags.io/GW/flat/64.png"
+  },
+  {
+    "code": "GY",
+    "text": "Guyana",
+    "flag": "https://www.countryflags.io/GY/flat/64.png"
+  },
+  {
+    "code": "HK",
+    "text": "Hong Kong",
+    "flag": "https://www.countryflags.io/HK/flat/64.png"
+  },
+  {
+    "code": "HM",
+    "text": "Heard and McDonald Islands",
+    "flag": "https://www.countryflags.io/HM/flat/64.png"
+  },
+  {
+    "code": "HN",
+    "text": "Honduras",
+    "flag": "https://www.countryflags.io/HN/flat/64.png"
+  },
+  {
+    "code": "HR",
+    "text": "Croatia",
+    "flag": "https://www.countryflags.io/HR/flat/64.png"
+  },
+  {
+    "code": "HT",
+    "text": "Haiti",
+    "flag": "https://www.countryflags.io/HT/flat/64.png"
+  },
+  {
+    "code": "HU",
+    "text": "Hungary",
+    "flag": "https://www.countryflags.io/HU/flat/64.png"
+  },
+  {
+    "code": "IC",
+    "flag": "https://www.countryflags.io/IC/flat/64.png"
+  },
+  {
+    "code": "ID",
+    "text": "Indonesia",
+    "flag": "https://www.countryflags.io/ID/flat/64.png"
+  },
+  {
+    "code": "IE",
+    "text": "Ireland",
+    "flag": "https://www.countryflags.io/IE/flat/64.png"
+  },
+  {
+    "code": "IL",
+    "text": "Israel",
+    "flag": "https://www.countryflags.io/IL/flat/64.png"
+  },
+  {
+    "code": "IM",
+    "text": "Isle of Man",
+    "flag": "https://www.countryflags.io/IM/flat/64.png"
+  },
+  {
+    "code": "IN",
+    "text": "India",
+    "flag": "https://www.countryflags.io/IN/flat/64.png"
+  },
+  {
+    "code": "IO",
+    "text": "British Indian Ocean Territory",
+    "flag": "https://www.countryflags.io/IO/flat/64.png"
+  },
+  {
+    "code": "IQ",
+    "text": "Iraq",
+    "flag": "https://www.countryflags.io/IQ/flat/64.png"
+  },
+  {
+    "code": "IR",
+    "text": "Iran, Islamic Republic Of",
+    "flag": "https://www.countryflags.io/IR/flat/64.png"
+  },
+  {
+    "code": "IS",
+    "text": "Iceland",
+    "flag": "https://www.countryflags.io/IS/flat/64.png"
+  },
+  {
+    "code": "IT",
+    "text": "Italy",
+    "flag": "https://www.countryflags.io/IT/flat/64.png"
+  },
+  {
+    "code": "JE",
+    "text": "Jersey",
+    "flag": "https://www.countryflags.io/JE/flat/64.png"
+  },
+  {
+    "code": "JM",
+    "text": "Jamaica",
+    "flag": "https://www.countryflags.io/JM/flat/64.png"
+  },
+  {
+    "code": "JO",
+    "text": "Jordan",
+    "flag": "https://www.countryflags.io/JO/flat/64.png"
+  },
+  {
+    "code": "JP",
+    "text": "Japan",
+    "flag": "https://www.countryflags.io/JP/flat/64.png"
+  },
+  {
+    "code": "KE",
+    "text": "Kenya",
+    "flag": "https://www.countryflags.io/KE/flat/64.png"
+  },
+  {
+    "code": "KG",
+    "text": "Kyrgyzstan",
+    "flag": "https://www.countryflags.io/KG/flat/64.png"
+  },
+  {
+    "code": "KH",
+    "text": "Cambodia",
+    "flag": "https://www.countryflags.io/KH/flat/64.png"
+  },
+  {
+    "code": "KI",
+    "text": "Kiribati",
+    "flag": "https://www.countryflags.io/KI/flat/64.png"
+  },
+  {
+    "code": "KM",
+    "text": "Comoros",
+    "flag": "https://www.countryflags.io/KM/flat/64.png"
+  },
+  {
+    "code": "KN",
+    "text": "Saint Kitts And Nevis",
+    "flag": "https://www.countryflags.io/KN/flat/64.png"
+  },
+  {
+    "code": "KP",
+    "text": "Korea, Democratic People's Republic Of",
+    "flag": "https://www.countryflags.io/KP/flat/64.png"
+  },
+  {
+    "code": "KR",
+    "text": "Korea, Republic of",
+    "flag": "https://www.countryflags.io/KR/flat/64.png"
+  },
+  {
+    "code": "KW",
+    "text": "Kuwait",
+    "flag": "https://www.countryflags.io/KW/flat/64.png"
+  },
+  {
+    "code": "KY",
+    "text": "Cayman Islands",
+    "flag": "https://www.countryflags.io/KY/flat/64.png"
+  },
+  {
+    "code": "KZ",
+    "text": "Kazakhstan",
+    "flag": "https://www.countryflags.io/KZ/flat/64.png"
+  },
+  {
+    "code": "LA",
+    "text": "Lao People's Democratic Republic",
+    "flag": "https://www.countryflags.io/LA/flat/64.png"
+  },
+  {
+    "code": "LB",
+    "text": "Lebanon",
+    "flag": "https://www.countryflags.io/LB/flat/64.png"
+  },
+  {
+    "code": "LC",
+    "text": "Saint Lucia",
+    "flag": "https://www.countryflags.io/LC/flat/64.png"
+  },
+  {
+    "code": "LI",
+    "text": "Liechtenstein",
+    "flag": "https://www.countryflags.io/LI/flat/64.png"
+  },
+  {
+    "code": "LK",
+    "text": "Sri Lanka",
+    "flag": "https://www.countryflags.io/LK/flat/64.png"
+  },
+  {
+    "code": "LR",
+    "text": "Liberia",
+    "flag": "https://www.countryflags.io/LR/flat/64.png"
+  },
+  {
+    "code": "LS",
+    "text": "Lesotho",
+    "flag": "https://www.countryflags.io/LS/flat/64.png"
+  },
+  {
+    "code": "LT",
+    "text": "Lithuania",
+    "flag": "https://www.countryflags.io/LT/flat/64.png"
+  },
+  {
+    "code": "LU",
+    "text": "Luxembourg",
+    "flag": "https://www.countryflags.io/LU/flat/64.png"
+  },
+  {
+    "code": "LV",
+    "text": "Latvia",
+    "flag": "https://www.countryflags.io/LV/flat/64.png"
+  },
+  {
+    "code": "LY",
+    "text": "Libya",
+    "flag": "https://www.countryflags.io/LY/flat/64.png"
+  },
+  {
+    "code": "MA",
+    "text": "Morocco",
+    "flag": "https://www.countryflags.io/MA/flat/64.png"
+  },
+  {
+    "code": "MC",
+    "text": "Monaco",
+    "flag": "https://www.countryflags.io/MC/flat/64.png"
+  },
+  {
+    "code": "MD",
+    "text": "Moldova, Republic of",
+    "flag": "https://www.countryflags.io/MD/flat/64.png"
+  },
+  {
+    "code": "ME",
+    "text": "Montenegro",
+    "flag": "https://www.countryflags.io/ME/flat/64.png"
+  },
+  {
+    "code": "MF",
+    "text": "Saint Martin",
+    "flag": "https://www.countryflags.io/MF/flat/64.png"
+  },
+  {
+    "code": "MG",
+    "text": "Madagascar",
+    "flag": "https://www.countryflags.io/MG/flat/64.png"
+  },
+  {
+    "code": "MH",
+    "text": "Marshall Islands",
+    "flag": "https://www.countryflags.io/MH/flat/64.png"
+  },
+  {
+    "code": "MK",
+    "text": "Macedonia, the Former Yugoslav Republic Of",
+    "flag": "https://www.countryflags.io/MK/flat/64.png"
+  },
+  {
+    "code": "ML",
+    "text": "Mali",
+    "flag": "https://www.countryflags.io/ML/flat/64.png"
+  },
+  {
+    "code": "MM",
+    "text": "Myanmar",
+    "flag": "https://www.countryflags.io/MM/flat/64.png"
+  },
+  {
+    "code": "MN",
+    "text": "Mongolia",
+    "flag": "https://www.countryflags.io/MN/flat/64.png"
+  },
+  {
+    "code": "MO",
+    "text": "Macao",
+    "flag": "https://www.countryflags.io/MO/flat/64.png"
+  },
+  {
+    "code": "MP",
+    "text": "Northern Mariana Islands",
+    "flag": "https://www.countryflags.io/MP/flat/64.png"
+  },
+  {
+    "code": "MQ",
+    "text": "Martinique",
+    "flag": "https://www.countryflags.io/MQ/flat/64.png"
+  },
+  {
+    "code": "MR",
+    "text": "Mauritania",
+    "flag": "https://www.countryflags.io/MR/flat/64.png"
+  },
+  {
+    "code": "MS",
+    "text": "Montserrat",
+    "flag": "https://www.countryflags.io/MS/flat/64.png"
+  },
+  {
+    "code": "MT",
+    "text": "Malta",
+    "flag": "https://www.countryflags.io/MT/flat/64.png"
+  },
+  {
+    "code": "MU",
+    "text": "Mauritius",
+    "flag": "https://www.countryflags.io/MU/flat/64.png"
+  },
+  {
+    "code": "MV",
+    "text": "Maldives",
+    "flag": "https://www.countryflags.io/MV/flat/64.png"
+  },
+  {
+    "code": "MW",
+    "text": "Malawi",
+    "flag": "https://www.countryflags.io/MW/flat/64.png"
+  },
+  {
+    "code": "MX",
+    "text": "Mexico",
+    "flag": "https://www.countryflags.io/MX/flat/64.png"
+  },
+  {
+    "code": "MY",
+    "text": "Malaysia",
+    "flag": "https://www.countryflags.io/MY/flat/64.png"
+  },
+  {
+    "code": "MZ",
+    "text": "Mozambique",
+    "flag": "https://www.countryflags.io/MZ/flat/64.png"
+  },
+  {
+    "code": "NA",
+    "text": "Namibia",
+    "flag": "https://www.countryflags.io/NA/flat/64.png"
+  },
+  {
+    "code": "NC",
+    "text": "New Caledonia",
+    "flag": "https://www.countryflags.io/NC/flat/64.png"
+  },
+  {
+    "code": "NE",
+    "text": "Niger",
+    "flag": "https://www.countryflags.io/NE/flat/64.png"
+  },
+  {
+    "code": "NF",
+    "text": "Norfolk Island",
+    "flag": "https://www.countryflags.io/NF/flat/64.png"
+  },
+  {
+    "code": "NG",
+    "text": "Nigeria",
+    "flag": "https://www.countryflags.io/NG/flat/64.png"
+  },
+  {
+    "code": "NI",
+    "text": "Nicaragua",
+    "flag": "https://www.countryflags.io/NI/flat/64.png"
+  },
+  {
+    "code": "NL",
+    "text": "Netherlands",
+    "flag": "https://www.countryflags.io/NL/flat/64.png"
+  },
+  {
+    "code": "NO",
+    "text": "Norway",
+    "flag": "https://www.countryflags.io/NO/flat/64.png"
+  },
+  {
+    "code": "NP",
+    "text": "Nepal",
+    "flag": "https://www.countryflags.io/NP/flat/64.png"
+  },
+  {
+    "code": "NR",
+    "text": "Nauru",
+    "flag": "https://www.countryflags.io/NR/flat/64.png"
+  },
+  {
+    "code": "NU",
+    "text": "Niue",
+    "flag": "https://www.countryflags.io/NU/flat/64.png"
+  },
+  {
+    "code": "NY",
+    "flag": "https://www.countryflags.io/NY/flat/64.png"
+  },
+  {
+    "code": "NZ",
+    "text": "New Zealand",
+    "flag": "https://www.countryflags.io/NZ/flat/64.png"
+  },
+  {
+    "code": "OM",
+    "text": "Oman",
+    "flag": "https://www.countryflags.io/OM/flat/64.png"
+  },
+  {
+    "code": "PA",
+    "text": "Panama",
+    "flag": "https://www.countryflags.io/PA/flat/64.png"
+  },
+  {
+    "code": "PE",
+    "text": "Peru",
+    "flag": "https://www.countryflags.io/PE/flat/64.png"
+  },
+  {
+    "code": "PF",
+    "text": "French Polynesia",
+    "flag": "https://www.countryflags.io/PF/flat/64.png"
+  },
+  {
+    "code": "PG",
+    "text": "Papua New Guinea",
+    "flag": "https://www.countryflags.io/PG/flat/64.png"
+  },
+  {
+    "code": "PH",
+    "text": "Philippines",
+    "flag": "https://www.countryflags.io/PH/flat/64.png"
+  },
+  {
+    "code": "PK",
+    "text": "Pakistan",
+    "flag": "https://www.countryflags.io/PK/flat/64.png"
+  },
+  {
+    "code": "PL",
+    "text": "Poland",
+    "flag": "https://www.countryflags.io/PL/flat/64.png"
+  },
+  {
+    "code": "PM",
+    "text": "Saint Pierre And Miquelon",
+    "flag": "https://www.countryflags.io/PM/flat/64.png"
+  },
+  {
+    "code": "PN",
+    "text": "Pitcairn",
+    "flag": "https://www.countryflags.io/PN/flat/64.png"
+  },
+  {
+    "code": "PR",
+    "text": "Puerto Rico",
+    "flag": "https://www.countryflags.io/PR/flat/64.png"
+  },
+  {
+    "code": "PS",
+    "text": "Palestine, State of",
+    "flag": "https://www.countryflags.io/PS/flat/64.png"
+  },
+  {
+    "code": "PT",
+    "text": "Portugal",
+    "flag": "https://www.countryflags.io/PT/flat/64.png"
+  },
+  {
+    "code": "PW",
+    "text": "Palau",
+    "flag": "https://www.countryflags.io/PW/flat/64.png"
+  },
+  {
+    "code": "PY",
+    "text": "Paraguay",
+    "flag": "https://www.countryflags.io/PY/flat/64.png"
+  },
+  {
+    "code": "QA",
+    "text": "Qatar",
+    "flag": "https://www.countryflags.io/QA/flat/64.png"
+  },
+  {
+    "code": "RE",
+    "text": "Réunion",
+    "flag": "https://www.countryflags.io/RE/flat/64.png"
+  },
+  {
+    "code": "RO",
+    "text": "Romania",
+    "flag": "https://www.countryflags.io/RO/flat/64.png"
+  },
+  {
+    "code": "RS",
+    "text": "Serbia",
+    "flag": "https://www.countryflags.io/RS/flat/64.png"
+  },
+  {
+    "code": "RU",
+    "text": "Russian Federation",
+    "flag": "https://www.countryflags.io/RU/flat/64.png"
+  },
+  {
+    "code": "RW",
+    "text": "Rwanda",
+    "flag": "https://www.countryflags.io/RW/flat/64.png"
+  },
+  {
+    "code": "SA",
+    "text": "Saudi Arabia",
+    "flag": "https://www.countryflags.io/SA/flat/64.png"
+  },
+  {
+    "code": "SB",
+    "text": "Solomon Islands",
+    "flag": "https://www.countryflags.io/SB/flat/64.png"
+  },
+  {
+    "code": "SC",
+    "text": "Seychelles",
+    "flag": "https://www.countryflags.io/SC/flat/64.png"
+  },
+  {
+    "code": "SD",
+    "text": "Sudan",
+    "flag": "https://www.countryflags.io/SD/flat/64.png"
+  },
+  {
+    "code": "SE",
+    "text": "Sweden",
+    "flag": "https://www.countryflags.io/SE/flat/64.png"
+  },
+  {
+    "code": "SG",
+    "text": "Singapore",
+    "flag": "https://www.countryflags.io/SG/flat/64.png"
+  },
+  {
+    "code": "SH",
+    "text": "Saint Helena",
+    "flag": "https://www.countryflags.io/SH/flat/64.png"
+  },
+  {
+    "code": "SI",
+    "text": "Slovenia",
+    "flag": "https://www.countryflags.io/SI/flat/64.png"
+  },
+  {
+    "code": "SJ",
+    "text": "Svalbard And Jan Mayen",
+    "flag": "https://www.countryflags.io/SJ/flat/64.png"
+  },
+  {
+    "code": "SK",
+    "text": "Slovakia",
+    "flag": "https://www.countryflags.io/SK/flat/64.png"
+  },
+  {
+    "code": "SL",
+    "text": "Sierra Leone",
+    "flag": "https://www.countryflags.io/SL/flat/64.png"
+  },
+  {
+    "code": "SM",
+    "text": "San Marino",
+    "flag": "https://www.countryflags.io/SM/flat/64.png"
+  },
+  {
+    "code": "SN",
+    "text": "Senegal",
+    "flag": "https://www.countryflags.io/SN/flat/64.png"
+  },
+  {
+    "code": "SO",
+    "text": "Somalia",
+    "flag": "https://www.countryflags.io/SO/flat/64.png"
+  },
+  {
+    "code": "SR",
+    "text": "Suriname",
+    "flag": "https://www.countryflags.io/SR/flat/64.png"
+  },
+  {
+    "code": "SS",
+    "text": "South Sudan",
+    "flag": "https://www.countryflags.io/SS/flat/64.png"
+  },
+  {
+    "code": "ST",
+    "text": "Sao Tome and Principe",
+    "flag": "https://www.countryflags.io/ST/flat/64.png"
+  },
+  {
+    "code": "SV",
+    "text": "El Salvador",
+    "flag": "https://www.countryflags.io/SV/flat/64.png"
+  },
+  {
+    "code": "SX",
+    "text": "Sint Maarten",
+    "flag": "https://www.countryflags.io/SX/flat/64.png"
+  },
+  {
+    "code": "SY",
+    "text": "Syrian Arab Republic",
+    "flag": "https://www.countryflags.io/SY/flat/64.png"
+  },
+  {
+    "code": "SZ",
+    "text": "Swaziland",
+    "flag": "https://www.countryflags.io/SZ/flat/64.png"
+  },
+  {
+    "code": "TC",
+    "text": "Turks and Caicos Islands",
+    "flag": "https://www.countryflags.io/TC/flat/64.png"
+  },
+  {
+    "code": "TD",
+    "text": "Chad",
+    "flag": "https://www.countryflags.io/TD/flat/64.png"
+  },
+  {
+    "code": "TF",
+    "text": "French Southern Territories",
+    "flag": "https://www.countryflags.io/TF/flat/64.png"
+  },
+  {
+    "code": "TG",
+    "text": "Togo",
+    "flag": "https://www.countryflags.io/TG/flat/64.png"
+  },
+  {
+    "code": "TH",
+    "text": "Thailand",
+    "flag": "https://www.countryflags.io/TH/flat/64.png"
+  },
+  {
+    "code": "TJ",
+    "text": "Tajikistan",
+    "flag": "https://www.countryflags.io/TJ/flat/64.png"
+  },
+  {
+    "code": "TK",
+    "text": "Tokelau",
+    "flag": "https://www.countryflags.io/TK/flat/64.png"
+  },
+  {
+    "code": "TL",
+    "text": "Timor-Leste",
+    "flag": "https://www.countryflags.io/TL/flat/64.png"
+  },
+  {
+    "code": "TM",
+    "text": "Turkmenistan",
+    "flag": "https://www.countryflags.io/TM/flat/64.png"
+  },
+  {
+    "code": "TN",
+    "text": "Tunisia",
+    "flag": "https://www.countryflags.io/TN/flat/64.png"
+  },
+  {
+    "code": "TO",
+    "text": "Tonga",
+    "flag": "https://www.countryflags.io/TO/flat/64.png"
+  },
+  {
+    "code": "TR",
+    "text": "Turkey",
+    "flag": "https://www.countryflags.io/TR/flat/64.png"
+  },
+  {
+    "code": "TT",
+    "text": "Trinidad and Tobago",
+    "flag": "https://www.countryflags.io/TT/flat/64.png"
+  },
+  {
+    "code": "TV",
+    "text": "Tuvalu",
+    "flag": "https://www.countryflags.io/TV/flat/64.png"
+  },
+  {
+    "code": "TW",
+    "text": "Taiwan, Republic Of China",
+    "flag": "https://www.countryflags.io/TW/flat/64.png"
+  },
+  {
+    "code": "TZ",
+    "text": "Tanzania, United Republic of",
+    "flag": "https://www.countryflags.io/TZ/flat/64.png"
+  },
+  {
+    "code": "UA",
+    "text": "Ukraine",
+    "flag": "https://www.countryflags.io/UA/flat/64.png"
+  },
+  {
+    "code": "UG",
+    "text": "Uganda",
+    "flag": "https://www.countryflags.io/UG/flat/64.png"
+  },
+  {
+    "code": "UM",
+    "text": "United States Minor Outlying Islands",
+    "flag": "https://www.countryflags.io/UM/flat/64.png"
+  },
+  {
+    "code": "US",
+    "text": "United States",
+    "flag": "https://www.countryflags.io/US/flat/64.png"
+  },
+  {
+    "code": "UY",
+    "text": "Uruguay",
+    "flag": "https://www.countryflags.io/UY/flat/64.png"
+  },
+  {
+    "code": "UZ",
+    "text": "Uzbekistan",
+    "flag": "https://www.countryflags.io/UZ/flat/64.png"
+  },
+  {
+    "code": "VA",
+    "text": "Holy See (Vatican City State)",
+    "flag": "https://www.countryflags.io/VA/flat/64.png"
+  },
+  {
+    "code": "VC",
+    "text": "Saint Vincent And The Grenadines",
+    "flag": "https://www.countryflags.io/VC/flat/64.png"
+  },
+  {
+    "code": "VE",
+    "text": "Venezuela, Bolivarian Republic of",
+    "flag": "https://www.countryflags.io/VE/flat/64.png"
+  },
+  {
+    "code": "VG",
+    "text": "Virgin Islands, British",
+    "flag": "https://www.countryflags.io/VG/flat/64.png"
+  },
+  {
+    "code": "VI",
+    "text": "Virgin Islands, U.S.",
+    "flag": "https://www.countryflags.io/VI/flat/64.png"
+  },
+  {
+    "code": "VN",
+    "text": "Vietnam",
+    "flag": "https://www.countryflags.io/VN/flat/64.png"
+  },
+  {
+    "code": "VU",
+    "text": "Vanuatu",
+    "flag": "https://www.countryflags.io/VU/flat/64.png"
+  },
+  {
+    "code": "WF",
+    "text": "Wallis and Futuna",
+    "flag": "https://www.countryflags.io/WF/flat/64.png"
+  },
+  {
+    "code": "WS",
+    "text": "Samoa",
+    "flag": "https://www.countryflags.io/WS/flat/64.png"
+  },
+  {
+    "code": "XK",
+    "flag": "https://www.countryflags.io/XK/flat/64.png"
+  },
+  {
+    "code": "YE",
+    "text": "Yemen",
+    "flag": "https://www.countryflags.io/YE/flat/64.png"
+  },
+  {
+    "code": "YT",
+    "text": "Mayotte",
+    "flag": "https://www.countryflags.io/YT/flat/64.png"
+  },
+  {
+    "code": "ZA",
+    "text": "South Africa",
+    "flag": "https://www.countryflags.io/ZA/flat/64.png"
+  },
+  {
+    "code": "ZM",
+    "text": "Zambia",
+    "flag": "https://www.countryflags.io/ZM/flat/64.png"
+  },
+  {
+    "code": "ZW",
+    "text": "Zimbabwe",
+    "flag": "https://www.countryflags.io/ZW/flat/64.png"
+  }
+]
