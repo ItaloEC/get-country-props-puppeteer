@@ -56,7 +56,7 @@ O projeto foi feito utilizando node.js, o mais famoso interpretador de javascrip
 - [Puppeteer](https://pptr.dev/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-### Prerequisitos
+### Pré-requisitos
 
 É necessário instalar o node.js, e um dos gerenciadores de pacotes citados acima. Os links para o download das ferramentas utilizadas estão na seção "Ferramentas Utilizadas"
 
