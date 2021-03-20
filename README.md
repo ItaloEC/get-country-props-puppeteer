@@ -79,16 +79,6 @@ O projeto foi feito utilizando node.js, o mais famoso interpretador de javascrip
    yarn start
    ```
 
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<!-- ROADMAP -->
-
 ## Roadmap
 
 Veja as [issues abertas](https://github.com/ItaloEC/get-country-props-puppeteer/issues) para obter uma lista de funcionalidades propostas (e problemas conhecidos).
