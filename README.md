@@ -48,7 +48,7 @@ Este projeto foi feito baseado na necessidade de exibir uma lista de países, ca
 
 ### Ferramentas Utilizadas
 
-O projeto foi feito utilizando node.js, o mais famoso interpretador de javascript fora de navegadores, o gerenciador de pacotes yarn (mas também poderia ter sido utilizado o NPM), e o puppeteer.js, uma biblioteca muito completa de web scrapping (captura de dados automatizada de páginas web). Para a edição de código, foi utilizado o editor Visual Studio Code.
+O projeto foi feito utilizando node.js, o mais famoso interpretador de javascript fora de navegadores, o gerenciador de pacotes yarn (mas também poderia ter sido utilizado o NPM), e o puppeteer.js, uma biblioteca muito completa de web scraping (captura de dados automatizada de páginas web). Para a edição de código, foi utilizado o editor Visual Studio Code.
 
 - [Node](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/)
